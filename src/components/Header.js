@@ -4,7 +4,7 @@ const Header = () => {
     return (
         <>
             <header className="bg-primary">
-                <h1>Busca Receta de Bebidas</h1>
+                <h1>Busca Recetas de Bebidas</h1>
             </header>
         </>
     );

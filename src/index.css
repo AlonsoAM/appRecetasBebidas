@@ -18,3 +18,20 @@ h1 {
     text-align: center;
     font-size: 3rem;
 }
+
+.img-card{
+    width: 18rem;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.img-modal {
+    width: 15rem;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    border-radius: 50%;
+}
