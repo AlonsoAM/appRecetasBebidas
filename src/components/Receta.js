@@ -27,7 +27,7 @@ const useStyles = makeStyles((theme) => ({
 const Receta = ({receta}) => {
     // Modal
     const classes = useStyles();
-    const [open, setOpen] = React.useState(false);
+    const [open, setOpen] = useState(false);
 
     const handleOpen = () => {
         setOpen(true);
